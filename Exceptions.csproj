@@ -53,6 +53,7 @@
     <Compile Include="AFileSystemException.cs" />
     <Compile Include="WriteDeniedException.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WTFException.cs" />
     <Compile Include="XmlFileException.cs" />
   </ItemGroup>
   <ItemGroup>
