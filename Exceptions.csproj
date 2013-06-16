@@ -51,6 +51,7 @@
     <Compile Include="AConfigException.cs" />
     <Compile Include="ACustomException.cs" />
     <Compile Include="AFileSystemException.cs" />
+    <Compile Include="DirectoryNotFoundException.cs" />
     <Compile Include="WriteDeniedException.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="WTFException.cs" />
